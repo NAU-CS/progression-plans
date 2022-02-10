@@ -1,0 +1,102 @@
+Progression plans for CS master students at Northern Arizona
+University
+
+The degree requirements are written under the Details tab on
+https://nau.edu/school-of-informatics-computing-and-cyber-systems/ms-computer-science/
+
+Below we list some suggested courses you take to satisfy your degree
+requirement, with various different specialties. GTA/GRA funding
+requires you to take 9 units per semester.
+
+Check [[https://www.peoplesoft.nau.edu/psc/ps92prcs/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL][on this page]] to see what courses will be offered in a given
+semester.
+
+** Speciality in Applied Artificial Intelligence / Machine Learning 
+
+This specialty is geared towards students who want broad experience
+with many advanced topics related to machine learning. List of
+recommended classes:
+
+- Statistics and mathematics (3 units): 
+  - STA570 Statistical Methods I (3 units)
+- Project-based learning (6 units):
+  - CS685 Graduate Research (6 units)
+- Electives (21 units): 
+  - 15 units CS courses:
+    - CS570 Advanced Intelligent Systems (3 units)
+    - CS599/571 Deep Learning (3 units)
+    - CS599/572 Unsupervised Learning (3 units)
+    - CS550 Parallel Computing (3 units)
+    - CS552 High Performance Computing (3 units)
+  - 6 other units required for degree, 12 shown below to satisfy 9 unit
+    per semester requirement for GRA/GTA:
+    - INF511 Modern Regression I (3 units)
+    - INF512 Modern Regression II (3 units)
+    - INF504 Data Mining And Machine Learning (3 units)
+    - INF503 Large Scale Data Structures (3 units)
+
+It is recommended to take the INF series in the order INF511, INF512,
+INF504. Example progression plan:
+
+- Semester 1
+  - STA570 Statistical Methods I (3 units)
+  - CS570 Advanced Intelligent Systems (3 units)
+  - CS552 High Performance Computing (3 units)
+- Semester 2
+  - CS599/572 Unsupervised Learning (3 units)
+  - INF511 Modern Regression I (3 units)
+  - CS550 Parallel Computing (3 units)
+- Semester 3
+  - CS685 Graduate Research (3 units)
+  - INF512 Modern Regression II (3 units)
+  - INF503 Large Scale Data Structures (3 units)
+- Semester 4
+  - CS685 Graduate Research (3 units)
+  - CS599/571 Deep Learning (3 units)
+  - INF504 Data Mining And Machine Learning (3 units)
+
+** Speciality in Machine Learning Research
+
+This specialty is geared towards students who want a deep
+understanding of machine learning research, ideal for students
+interested to pursue a PHD. List of recommended classes:
+
+- Statistics and mathematics (3 units): 
+  - STA570 Statistical Methods I (3 units)
+- Project-based learning (6 units):
+  - CS685 Graduate Research (6 units)
+- Thesis (6 units): 
+  - CS699 Thesis (6 units)
+- Electives (15 units): 
+  - 9 units CS courses required for degree, 12 units shown below to
+    satisfy requirement of 9 units per semester for GRA/GTA.
+    - CS599/571 Deep Learning (3 units)
+    - CS599/572 Unsupervised Learning (3 units)
+    - CS699 Thesis (6 units)
+  - 6 other units required for degree, 9 shown below to satisfy 9 unit
+    per semester requirement for GRA/GTA:
+    - INF511 Modern Regression I (3 units)
+    - INF512 Modern Regression II (3 units)
+    - INF504 Data Mining And Machine Learning (3 units)
+
+It is recommended to take the INF series in the order INF511, INF512,
+INF504. Example progression plan:
+
+- Semester 1
+  - CS685 Graduate Research (3 units)
+  - STA570 Statistical Methods I (3 units)
+  - CS599/571 Deep Learning (3 units)
+- Semester 2
+  - CS685 Graduate Research (3 units)
+  - CS599/572 Unsupervised Learning (3 units)
+  - INF511 Modern Regression I (3 units)
+- Semester 3
+  - CS699 Graduate Research (6 units)
+  - INF512 Modern Regression II (3 units)
+- Semester 4
+  - CS699 Graduate Research (6 units)
+  - INF504 Data Mining And Machine Learning (3 units)
+
+** Questions?
+
+Ask toby.hocking@nau.edu for guidance.
