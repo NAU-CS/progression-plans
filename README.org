@@ -11,7 +11,7 @@ requires you to take 9 units per semester.
 Check [[https://www.peoplesoft.nau.edu/psc/ps92prcs/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL][on this page]] to see what courses will be offered in a given
 semester.
 
-** Speciality in Applied Artificial Intelligence / Machine Learning 
+** Specialty in Applied Artificial Intelligence / Machine Learning 
 
 This specialty is geared towards students who want broad experience
 with many advanced topics related to machine learning. List of
@@ -55,7 +55,7 @@ INF504. Example progression plan:
   - CS599/571 Deep Learning (3 units)
   - INF504 Data Mining And Machine Learning (3 units)
 
-** Speciality in Machine Learning Research
+** Specialty in Machine Learning Research
 
 This specialty is geared towards students who want a deep
 understanding of machine learning research, ideal for students
