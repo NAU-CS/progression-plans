@@ -35,13 +35,13 @@ recommended classes:
     - INF504 Data Mining And Machine Learning (3 units)
     - INF503 Large Scale Data Structures (3 units)
 
-It is recommended to take the INF series in the order INF511, INF512,
+It is recommended to take INF511 before INF512 and
 INF504. Example progression plan:
 
 - Semester 1
   - STA570 Statistical Methods I (3 units)
   - CS570 Advanced Intelligent Systems (3 units)
-  - CS552 High Performance Computing (3 units)
+  - INF503 Large Scale Data Structures (3 units)
 - Semester 2
   - CS599/572 Unsupervised Learning (3 units)
   - INF511 Modern Regression I (3 units)
@@ -49,11 +49,11 @@ INF504. Example progression plan:
 - Semester 3
   - CS685 Graduate Research (3 units)
   - INF512 Modern Regression II (3 units)
-  - INF503 Large Scale Data Structures (3 units)
+  - CS550 Parallel Computing (3 units)
 - Semester 4
   - CS685 Graduate Research (3 units)
   - CS599/571 Deep Learning (3 units)
-  - INF504 Data Mining And Machine Learning (3 units)
+  - CS552 High Performance Computing (3 units)
 
 ** Specialty in Machine Learning Research
 
@@ -79,7 +79,7 @@ interested to pursue a PHD. List of recommended classes:
     - INF512 Modern Regression II (3 units)
     - INF504 Data Mining And Machine Learning (3 units)
 
-It is recommended to take the INF series in the order INF511, INF512,
+It is recommended to take INF511 before INF512 and
 INF504. Example progression plan:
 
 - Semester 1
