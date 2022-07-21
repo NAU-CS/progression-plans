@@ -1,5 +1,6 @@
-Progression plans for CS master students at Northern Arizona
-University
+Progression plans for graduate students at Northern Arizona University
+
+* CS Master students
 
 The degree requirements are written under the Details tab on
 https://nau.edu/school-of-informatics-computing-and-cyber-systems/ms-computer-science/
@@ -97,6 +98,44 @@ INF504. Example progression plan:
   - CS699 Graduate Research (6 units)
   - INF504 Data Mining And Machine Learning (3 units)
 
-** Questions?
+* Inf PhD
+
+The degree requirements are written under the Details tab on
+https://nau.edu/school-of-informatics-computing-and-cyber-systems/phd-informatics-and-computing/
+
+Below we list some suggested courses you take to satisfy your degree
+requirement, with various different specialties. GTA/GRA funding
+requires you to take 9 units per semester.
+
+Check [[https://www.peoplesoft.nau.edu/psc/ps92prcs/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL][on this page]] to see what courses will be offered in a given
+semester.
+
+** Specialty in machine learning research
+
+- Semester 1
+  - INF685 Graduate Research. (instead of INF502)
+  - INF503 Large-scale Data Structures and Organization.
+  - INF511 Modern Regression I.
+- Semester 2
+  - INF685 Graduate Research.
+  - INF605 Professional Communication.
+  - INF512 Modern Regression II.
+- Semester 3
+  - INF685 Graduate Research.
+  - INF504 Data Mining and Machine Learning.
+  - CS572 Deep Learning.
+- Semester 4
+  - INF685 Graduate Research.
+  - CS552 High Performance Computing.
+  - CS571 Unsupervised Learning.
+- Semester 5
+  - INF799 Dissertation (6 units)
+  - INF631 Topics in Software Engineering.
+- Semester 6
+  - INF799 Dissertation (6 units)
+  - INF63x Another Topics class.
+- etc.
+
+* Questions?
 
 Ask toby.hocking@nau.edu for guidance.
