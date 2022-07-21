@@ -135,6 +135,7 @@ semester.
   - INF799 Dissertation (6 units)
   - INF63x Another Topics class.
 - etc.
+- INF501 Research Methods In Informatics And Computing could also be useful.
 
 * Questions?
 
